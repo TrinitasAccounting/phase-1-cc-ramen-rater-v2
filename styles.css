@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+#delete-button {
+  color: rgb(255, 255, 255);
+  background-color: rgb(162, 15, 15);
+}
+
 body {
   padding: 1rem;
   text-align: center;
