@@ -122,25 +122,7 @@ const displayRamens = () => {
 
 
 
-//Advanced Deliverable: Delete a Ramen
-
-
-// const deleteARamen = () => {
-
-//   const middlePageImage = document.querySelector('.detail-image');
-//   const middlePageName = document.querySelector('.name');
-//   const middlePageDescription = document.querySelector('.restaurant');
-//   const middlePageRating = document.querySelector('#rating-display');
-//   const middlePageComment = document.querySelector('#comment-display');
-
-//   const deleteButton = document.getElementById('delete-button');
-//   deleteButton.addEventListener('click', () => {
-//     // console.log(middlePageName.textContent)
-
-
-
-//   })
-// }
+//Advanced Deliverable ******Not Completed: Delete a Ramen
 
 
 
